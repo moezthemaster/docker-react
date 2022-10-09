@@ -10,7 +10,7 @@ deploy:
   provider: elasticbeanstalk
   region: "eu-west-3"
   app: "my-app01"
-  env: "Myapp01-env"
+  env: "Myapp01-env-1"
   bucket_name: "elasticbeanstalk-eu-west-3-967594418546"
   bucket_path: "my-app01"
   on:
